@@ -1,4 +1,4 @@
-Polimorfismo em Python
+# Polimorfismo em Python <br>
 O polimorfismo em Python refere-se à capacidade de um objeto ser referenciado de várias formas diferentes, permitindo que um mesmo método seja chamado em objetos de classes diferentes. Isso significa que objetos de diferentes classes podem ser tratados de maneira uniforme se compartilharem um método comum.
 
 Exemplo de Polimorfismo na vida real
