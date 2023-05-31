@@ -10,3 +10,10 @@ Ao chamar o método "sacar" em objetos do tipo "ContaCorrente" e "ContaPoupanca"
 
 O exemplo citado acima estará no arquivo "polimorfismo.py"
 
+
+# Herança em Python <br>
+A herança é um conceito importante na programação orientada a objetos que permite que uma classe herde atributos e métodos de outra classe, chamada de classe pai ou superclasse. A classe que herda é chamada de classe filha ou subclasse. A herança permite a reutilização de código e facilita a organização e a extensão de classes relacionadas.
+
+Quando uma classe herda de outra, ela recebe todos os atributos e métodos da classe pai e pode adicionar ou modificar funcionalidades conforme necessário. A classe filha pode estender a funcionalidade da classe pai ou especializá-la para um contexto específico.
+
+
