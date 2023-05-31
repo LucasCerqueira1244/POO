@@ -16,7 +16,7 @@ A herança é um conceito importante na programação orientada a objetos que pe
 
 Quando uma classe herda de outra, ela recebe todos os atributos e métodos da classe pai e pode adicionar ou modificar funcionalidades conforme necessário. A classe filha pode estender a funcionalidade da classe pai ou especializá-la para um contexto específico.
 
-<strong>O exemplo estrá no arquivo "heranca.py"<strong/>
+<strong>O exemplo estrá no arquivo "heranca.py"</strong>
 
 Nesse exemplo, temos uma classe base chamada "Pessoa" que possui os atributos nome e idade, além do método exibir_informacoes para mostrar os dados da pessoa. A classe "Estudante" herda da classe "Pessoa" utilizando a sintaxe class Estudante(Pessoa). A classe "Estudante" adiciona um atributo extra chamado matricula e sobrescreve o método exibir_informacoes para incluir também a matrícula.
 
