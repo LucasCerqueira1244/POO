@@ -8,7 +8,7 @@ Nesse exemplo, podemos criar uma classe base chamada "Conta" e, em seguida, deri
 
 Ao chamar o método "sacar" em objetos do tipo "ContaCorrente" e "ContaPoupanca", o polimorfismo permite que o código trate esses objetos de forma uniforme, mesmo que a implementação real do método seja diferente para cada classe.
 
-O exemplo citado acima estará no arquivo "polimorfismo.py"
+<strong>O exemplo citado acima estará no arquivo "polimorfismo.py"</strong>
 
 
 # Herança em Python <br>
