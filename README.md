@@ -6,5 +6,7 @@ Um exemplo de polimorfismo da vida real, pode ser uma aplicação bancária que 
 
 Nesse exemplo, podemos criar uma classe base chamada "Conta" e, em seguida, derivar outras classes específicas, como "ContaCorrente", "ContaPoupanca" e "ContaInvestimento". Cada uma dessas classes pode ter sua própria implementação dos métodos "depositar" e "sacar", mas todos eles compartilham uma interface comum.
 
+Ao chamar o método "sacar" em objetos do tipo "ContaCorrente" e "ContaPoupanca", o polimorfismo permite que o código trate esses objetos de forma uniforme, mesmo que a implementação real do método seja diferente para cada classe.
+
 O exemplo citado acima estará no arquivo "polimorfismo.py"
 
